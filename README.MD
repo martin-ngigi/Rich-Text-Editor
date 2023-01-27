@@ -3,4 +3,4 @@
 - [CKEditor](https://ckeditor.com/docs/ckeditor4/latest/guide/index.html)
 - [Download CKEditor](https://ckeditor.com/ckeditor-4/download/)
 
-- ![Rich Text Editor 4](images/rich4.png)
+- ![Rich Text Editor 4](images/rich4.png) 
